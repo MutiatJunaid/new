@@ -1,17 +1,17 @@
 day_4exercises.js
 //q1
 
-let age = prompt("Enter your age:")
-let diff = 18-age
+const age1 = prompt("Enter your age:")
+const diff1 = 18-age
 if (age>=18){
     alert("You are old enough to drive")
 }else{
     alert("you are left with" +diff +"years to drive")
 }
-/*
-let age =prompt("enter your age:")
-let diff= 18-age
-(age>=18)? alert("you are old enough to drive"): alert("you are left with" +diff +"years to drive")*/
+
+// let age =prompt("enter your age:")
+// let diff= 18-age
+// (age>=18)? alert("you are old enough to drive"): alert("you are left with" +diff +"years to drive")
 
 
 //2
