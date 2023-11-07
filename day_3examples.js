@@ -87,15 +87,15 @@ console.log(count)
 console.log(--count)
 console.log(count)
 let message="welcome to 30 days of Javascript"
-alert(message)
-alert('welcomme to 30 days of JAVASCRIPT')
-let number = prompt('Enter number', 'number goes here')
-console.log(number)
+//alert(message)
+//alert('welcomme to 30 days of JAVASCRIPT')
+//let number = prompt('Enter number', 'number goes here')
+//console.log(number)
 
 //date object
 
 const now = new Date();
 console.log(now);
-console.log(now.getFullYear);
-console.log(now.getMonth);
+console.log(now.getFullYear());
+console.log(now.getMonth());
 
